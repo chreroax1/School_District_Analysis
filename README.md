@@ -22,7 +22,7 @@ The purpose of the school district analysis was to provide data and statistics f
  
 - **Scores by school spending**
 	- It was found that the overall passing percentage was the highest at 90% when the least amount of money was allocated per student; in this case, the spending range per student of less than $584 saw an overall passing percentage of 90%, while the highest spending range per student saw the lowest overall passing percentage of 54%. The following image demonstrates this finding:
-!per_spending (https://github.com/chreroax1/School_District_Analysis/blob/main/Resources/per_spending.png)
+![per_spending] (https://github.com/chreroax1/School_District_Analysis/blob/main/Resources/per_spending.png)
 
 
  - **Scores by school size** 
